@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## BAR
 
 ex-git
+
+###copyright 
+
+2020 git.training
