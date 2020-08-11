@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    bar horovitz  bar@gmail.com @barh
 
 # THANKS
 
